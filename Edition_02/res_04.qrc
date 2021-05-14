@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix4">
+        <file>sound02/BackButtonSound.wav</file>
+        <file>sound02/button_01.wav</file>
+        <file>sound02/TapButtonSound.wav</file>
+    </qresource>
+</RCC>

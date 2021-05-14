@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix2">
+        <file>backbtn/BackButton.png</file>
+        <file>backbtn/BackButtonSelected.png</file>
+        <file>backbtn/LevelCompletedDialogBg.png</file>
+    </qresource>
+</RCC>
